@@ -9,3 +9,7 @@
 ```bash
 $ npm install --save react-toast-template-basic
 ```
+
+## Special thank-you
+
+`react-toast-template-basic` is a fork of `react-alert-template-basic`, written by [schiehll](https://github.com/schiehll). Thank you for all the work you put in.
