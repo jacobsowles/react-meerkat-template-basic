@@ -1,15 +1,15 @@
-# react-toast-template-basic
+# react-meerkat-template-basic
 
-> A basic alert template for [react-toast](https://github.com/jacobsowles/react-toast)
+> A basic alert template for [react-meerkat](https://github.com/jacobsowles/react-meerkat)
 
-[![version](https://img.shields.io/npm/v/react-toast-template-basic.svg?style=flat-square)](http://npm.im/react-toast-template-basic)
+[![version](https://img.shields.io/npm/v/react-meerkat-template-basic.svg?style=flat-square)](http://npm.im/react-meerkat-template-basic)
 
 ## Installation
 
 ```bash
-$ npm install --save react-toast-template-basic
+$ npm install --save react-meerkat-template-basic
 ```
 
 ## Special thank-you
 
-`react-toast-template-basic` is a fork of `react-alert-template-basic`, written by [schiehll](https://github.com/schiehll). Thank you for all the work you put in.
+`react-meerkat-template-basic` is a fork of `react-alert-template-basic`, written by [schiehll](https://github.com/schiehll). Thank you for all the work you put in.
