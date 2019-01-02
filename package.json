@@ -1,6 +1,6 @@
 {
   "name": "react-meerkat-template-basic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jacob Sowles <jacob@jacobsowles.com>",
   "main": "dist/cjs/react-meerkat-template-basic.js",
   "module": "dist/esm/react-meerkat-template-basic.js",
